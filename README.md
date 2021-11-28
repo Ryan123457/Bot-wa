@@ -164,3 +164,6 @@
 # bot by
 Akmal gwanteng
 wa.me/6282264851002
+
+# tes
+<img src="/wahyudioputra/wahyudioputra/raw/master/code.gif" style="max-width: 100%;">

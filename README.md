@@ -1,9 +1,9 @@
-# Staz-Bot
+# Mr-04
 
 <div align="center">
 <img src="https://i.ibb.co/HtVB3Jr/767470.jpg" alt="STAZ-BOT" width="300px" />
 
-### Holaa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### wlcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 >
 >
@@ -153,6 +153,7 @@
 | X |✅|
 | WAKTU |✅|
 | NOTIFBC |✅|
+| and lain²
 
   ## Big Thanks To🙏
 * [`Baileys`](https://github.com/adiwajshing/Baileys) <b>(library)</b>

@@ -20,7 +20,7 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/Stazyu/Staz-Bot.git
-> cd Staz-Bot
+> cd Bot-wa
 > bash install.sh
 > npm start/node main.js
 ```

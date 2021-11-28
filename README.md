@@ -1,18 +1,18 @@
-# Mr-04
+# Staz-Bot
 
 <div align="center">
 <img src="https://i.ibb.co/HtVB3Jr/767470.jpg" alt="STAZ-BOT" width="300px" />
 
-### welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Holaa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/wahyudioputra"><img title="Author" src="https://img.shields.io/badge/Author-Mr04-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Stazyu"><img title="Author" src="https://img.shields.io/badge/Author-Stazyu-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-    <a href="wa.me/6282264851002"><img title="Author" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="wa.me/6281578794887"><img title="Author" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </h4>
 </p>
 
@@ -153,14 +153,9 @@
 | X |✅|
 | WAKTU |✅|
 | NOTIFBC |✅|
-| and lain²
 
   ## Big Thanks To🙏
 * [`Baileys`](https://github.com/adiwajshing/Baileys) <b>(library)</b>
 * [`MhankBarBar`](https://github.com/MhankBarBar/termux-wabot) <b>(base)</b>
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX)
-
-# Bot by
-Mr04 
-http://wa.me/6282264851002

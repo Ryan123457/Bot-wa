@@ -1,4 +1,4 @@
-# Staz-Bot
+# Mr-04
 
 <div align="center">
 <img src="https://i.ibb.co/HtVB3Jr/767470.jpg" alt="STAZ-BOT" width="300px" />
@@ -153,9 +153,14 @@
 | X |✅|
 | WAKTU |✅|
 | NOTIFBC |✅|
+|and lain²|
 
   ## Big Thanks To🙏
 * [`Baileys`](https://github.com/adiwajshing/Baileys) <b>(library)</b>
 * [`MhankBarBar`](https://github.com/MhankBarBar/termux-wabot) <b>(base)</b>
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX)
+
+# bot by
+Akmal gwanteng
+wa.me/6282264851002

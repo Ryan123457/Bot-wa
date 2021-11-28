@@ -3,14 +3,14 @@
 <div align="center">
 <img src="https://i.ibb.co/HtVB3Jr/767470.jpg" alt="STAZ-BOT" width="300px" />
 
-### wlcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Ryan123457"><img title="Author" src="https://img.shields.io/badge/Author-Stazyu-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Ryan123457"><img title="Author" src="https://img.shields.io/badge/Author-Mr-04-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
     <a href="wa.me/6282264851002"><img title="Author" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </h4>

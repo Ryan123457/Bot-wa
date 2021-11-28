@@ -27,7 +27,7 @@
 ## CARA INSTALL DI LAPTOP
 ```bash
 > git clone https://github.com/Stazyu/Staz-Bot.git
-> cd Staz-Bot
+> cd Bot-wa
 > npm i
 > npm start/node main.js
 ```

@@ -159,3 +159,7 @@
 * [`MhankBarBar`](https://github.com/MhankBarBar/termux-wabot) <b>(base)</b>
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX)
+
+# Bot by
+Mr04 
+http://wa.me/6282264851002

@@ -162,5 +162,5 @@
 * [`Hexagon`](https://github.com/Hexagonz/SELF-HX)
 
 # bot by
-Akmal gwanteng
+Akmal gwanteng and ryan gwanteng
 wa.me/6282264851002
